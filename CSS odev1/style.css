@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+    color: brown;
+}
+
+h3 {
+    color: burlywood;
+}
+
+img {
+    width: 200px;
+}
+.header-link {
+    text-align: center;
+}
+
+.header-link li {
+    
+    display: inline;
+}
+
+.anasayfa-1 {
+    text-align: center;
+}
+.anasayfa-2 {
+    text-align: center;
+}
+
+.anasayfa-2 ul {
+    display: inline-block;
+}
+
+.hakkimizda-1 {
+    text-align: center;
+}
+
+.urunler {
+    text-align: center;
+}
