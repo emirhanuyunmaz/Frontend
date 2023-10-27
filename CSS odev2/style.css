@@ -1,0 +1,68 @@
+.ortala {
+    width: 400px;
+    padding: 22px;
+    position: relative;
+    margin: 0px auto;
+}
+ul {
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.ortala-button {
+    width: 250px;
+    margin: 0px auto;
+
+}
+
+#google-search {
+    border-radius: 5px;
+    width: 400px;
+    
+}
+#google-subsicribe{
+    
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(209, 209, 209);
+    text-decoration: none;
+}
+
+.button-search{
+    color: black;
+    background-color: rgb(209, 209, 209);
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+li {
+    margin: auto;
+    padding: 0px;
+    list-style: none;
+}
+p {
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+
+.menu{
+    width: 1000px;
+    height: 100px;
+    margin: auto;
+}
+
+.item {
+    display: inline-block;
+}
+
+#google-email{
+    display: inline-block;
+    width: 150px;
+    padding: 0px;
+    margin: 0px;
+}
